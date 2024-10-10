@@ -1,0 +1,2 @@
+#Wed Oct 09 20:23:50 CDT 2024
+WAVY_PLANTS=false

@@ -1,0 +1,13 @@
+#Mon Oct 07 20:43:34 CDT 2024
+Caustics=true
+Cloud_reflection=true
+Fog=false
+Lens_Flares=true
+Moonlight=0.009
+RainReflections=true
+TAA=true
+iceRefl=true
+metallicRefl=true
+nMap=1
+polishedRefl=true
+waterRefl=true
